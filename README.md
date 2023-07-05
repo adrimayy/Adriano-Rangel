@@ -53,11 +53,27 @@ Interested in learning: Swift for app development and Large Language Models (LLM
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/>
   </a>
+  <a href="https://openai.com/research/">
+    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="LLM" width="40" height="40"/>
+  </a>
 </p>
 
 ## 🎯 Projects
 
-Throughout my educational journey, I've worked on several programming assignments and class projects, including creating Chrome extensions and designing web pages. I am excited to work on more collaborative projects, especially those related to Swift and LLM.
+I'm proud to have worked on:
+
+<a href="https://chrome.google.com/webstore/detail/ehhs-chrome-extension-v05/blcpgphidnljbfgncoaafbjhokeanaic">
+  <img align="left" src="https://lh3.googleusercontent.com/IVFPi8FniFWyKAoa4BaPxVO3fPXTBc32sFv-XcsaqB-uRDIjWj6YiPw3JIV0nWX_OpYeMTRP7TzVUPcdV3yTFygOYg=w128-h128-e365-rj-sc0x00ffffff" width="40" height="40"/>
+</a>
+
+<a href="https://chrome.google.com/webstore/detail/classaway/paefibbdicikhmllmlkconnkmoacldog/related">
+  <img align="left" src="https://lh3.googleusercontent.com/ta961N-3hPr8WfwSxFcP8RKxbZTI2m1_q_TN0pa-FqpYS0AC472SLVV5vm2BinLFHSArfV9Yo27VM49JsF9vEdTZT6s=w128-h128-e365-rj-sc0x00ffffff" width="40" height="40"/>
+</a>
+
+<br/>
+<br/>
+
+Throughout my educational journey, I've also worked on several programming assignments and class projects. I am excited to work on more collaborative projects, especially those related to Swift and LLM.
 
 ## 🏆 Achievements
 
