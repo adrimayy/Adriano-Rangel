@@ -12,7 +12,7 @@ Currently, I'm studying at East Hampton High School, where I've undertaken sever
 - Proficient in: Python, JavaScript, React Native, HTML5, CSS.
 - Comfortable with: Java, p5.js.
 - Experience with: Building Chrome extensions and using Wordpress.
-- Interested in learning: Swift for app development and Low-Level Machine (LLM) programming.
+- Interested in learning: Swift for app development and Large Language Models (LLMs).
 
 ## 🎯 Projects
 
