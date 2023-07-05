@@ -51,7 +51,7 @@ Interested in learning: Swift for app development and Large Language Models (LLM
 
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/>
   </a>
 </p>
 
