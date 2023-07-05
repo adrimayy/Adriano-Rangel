@@ -23,7 +23,7 @@ Throughout my educational journey, I've worked on several programming assignment
 - Gold Award Winner for outstanding performance in Coding for Artists and Interactivity.
 - Gold Award Winner for outstanding performance in Coding Web Design with HTML5.
 - Rotary Youth Leadership Award.
-- [Full list of achievements](https://github.com/adrimayy/resume.md)
+- [Full list of achievements](https://github.com/adrimayy/Adriano-Rangel's-Resume.pdf)
 
 ## 🚀 Extra-Curricular Activities
 
@@ -32,7 +32,7 @@ Throughout my educational journey, I've worked on several programming assignment
 - Camerata - President.
 - Key Club - Tech Engineer.
 - Century Club - President.
-- [Full list of activities](https://github.com/adrimayy/resume.md)
+- [Full list of activities](https://github.com/adrimayy/Adriano-Rangel's-Resume.pdf)
 
 ## 📫 How to reach me
 
