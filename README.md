@@ -22,7 +22,7 @@ Throughout my educational journey, I've worked on several programming assignment
 
 - Gold Award Winner for outstanding performance in Coding for Artists and Interactivity.
 - Gold Award Winner for outstanding performance in Coding Web Design with HTML5.
-- Rotary Youth Leadership Award.
+- Silver Award Winner for outstanding performance in Coding for Makers (Python)
 - [Full list of achievements](https://github.com/adrimayy/Adriano-Rangel/blob/main/Adriano%20Rangel's%20Resume.pdf)
 
 ## 🚀 Extra-Curricular Activities
