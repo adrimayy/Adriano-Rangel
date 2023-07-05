@@ -54,7 +54,7 @@ Interested in learning: Swift for app development and Large Language Models (LLM
     <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" width="40" height="40"/>
   </a>
   <a href="https://openai.com/research/">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="LLM" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="LLM" width="40" height="40"/>
   </a>
 </p>
 
