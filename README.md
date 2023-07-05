@@ -77,7 +77,7 @@ Throughout my educational journey, I've worked on several programming assignment
 
 ## 📫 How to reach me
 
-Feel free to reach me at [adrianorangelny@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=[adrianorangelny@gmail.com]) or call me at (631) 377-8085.
+Feel free to reach me at [adrianorangelny@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=adrianorangelny@gmail.com) or call me at (631) 377-8085.
 
 [![Adriano Rangel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrimayy)](https://github.com/anuraghazra/github-readme-stats)
 
