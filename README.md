@@ -73,7 +73,7 @@ I'm proud to have worked on:
 <br/>
 <br/>
 
-Throughout my educational journey, I've also worked on several programming assignments and class projects. I am excited to work on more collaborative projects, especially those related to Swift and LLM.
+Throughout my educational journey, I've worked on several programming assignments and class projects. Some of my notable projects include two Chrome Extensions, one for East Hampton High School (EHHS) and another one for Google Classroom:
 
 ## 🏆 Achievements
 
