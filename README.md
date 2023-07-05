@@ -43,7 +43,7 @@ Experience with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="chrome" width="40" height="40"/>
   </a>
   <a href="https://wordpress.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
 
