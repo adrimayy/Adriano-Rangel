@@ -73,7 +73,7 @@ I'm proud to have worked on:
 <br/>
 <br/>
 
-Throughout my educational journey, I've worked on several programming assignments and class projects. Some of my notable projects include two Chrome Extensions, one for East Hampton High School (EHHS) and another one for Google Classroom:
+Throughout my educational journey, I've worked on several programming assignments and class projects. Some of my notable projects include two Chrome Extensions, one for East Hampton High School (EHHS) and another one for Google Classroom.
 
 ## 🏆 Achievements
 
