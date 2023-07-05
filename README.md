@@ -33,7 +33,7 @@ Comfortable with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://p5js.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original-wordmark.svg" alt="p5js" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/>
   </a>
 </p>
 
