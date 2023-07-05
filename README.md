@@ -1,4 +1,3 @@
-
 # Hi there, I'm Adriano Rangel! 👋
 
 I'm a 11th-grade high school student from East Hampton, NY, passionate about programming and technology. I'm actively looking for opportunities to learn, grow and make a meaningful impact.
@@ -9,10 +8,52 @@ Currently, I'm studying at East Hampton High School, where I've undertaken sever
 
 ## 💻 Technical Skills
 
-- Proficient in: Python, JavaScript, React Native, HTML5, CSS.
-- Comfortable with: Java, p5.js.
-- Experience with: Building Chrome extensions and using Wordpress.
-- Interested in learning: Swift for app development and Large Language Models (LLMs).
+Proficient in:
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+</p>
+
+Comfortable with:
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://p5js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original-wordmark.svg" alt="p5js" width="40" height="40"/>
+  </a>
+</p>
+
+Experience with:
+<p align="left">
+  <a href="https://developer.chrome.com/extensions" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="40" height="40"/>
+  </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/>
+  </a>
+</p>
+
+Interested in learning: Swift for app development and Large Language Models (LLMs).
+
+<p align="left">
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🎯 Projects
 
@@ -39,3 +80,4 @@ Throughout my educational journey, I've worked on several programming assignment
 Feel free to reach me at [adrianorangelny@gmail.com](mailto:adrianorangelny@gmail.com) or call me at (631) 377-8085.
 
 [![Adriano Rangel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrimayy)](https://github.com/anuraghazra/github-readme-stats)
+
