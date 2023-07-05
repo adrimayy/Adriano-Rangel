@@ -16,8 +16,8 @@ Proficient in:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <a href="https://p5js.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/>
@@ -32,8 +32,8 @@ Comfortable with:
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://p5js.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
 </p>
 
