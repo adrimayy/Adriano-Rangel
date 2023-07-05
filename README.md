@@ -27,7 +27,7 @@ Proficient in:
   </a>
 </p>
 
-Comfortable with:
+Experience with:
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -35,10 +35,6 @@ Comfortable with:
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
-</p>
-
-Experience with:
-<p align="left">
   <a href="https://developer.chrome.com/docs/extensions/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="chrome" width="40" height="40"/>
   </a>
