@@ -39,8 +39,8 @@ Comfortable with:
 
 Experience with:
 <p align="left">
-  <a href="https://developer.chrome.com/extensions" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="40" height="40"/>
+  <a href="https://developer.chrome.com/docs/extensions/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="chrome" width="40" height="40"/>
   </a>
   <a href="https://wordpress.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/>
