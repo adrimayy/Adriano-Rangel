@@ -84,7 +84,7 @@ Throughout my educational journey, I've worked on several programming assignment
 - Class of 2025 - Bilingual Liaison.
 - Camerata - President.
 - Key Club - Tech Engineer.
-- Century Club - President.
+- Century Club - Secretary.
 - [Full list of activities](https://github.com/adrimayy/Adriano-Rangel/blob/main/Adriano%20Rangel's%20Resume.pdf)
 
 ## 📫 How to reach me
