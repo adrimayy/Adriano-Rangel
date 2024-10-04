@@ -1,6 +1,6 @@
 # Hi there, I'm Adriano Rangel! 👋
 
-I'm a 11th-grade high school student from East Hampton, NY, passionate about programming and technology. I'm actively looking for opportunities to learn, grow and make a meaningful impact.
+I'm a 12th-grade high school student from East Hampton, NY, passionate about programming and technology. I'm actively looking for opportunities to learn, grow and make a meaningful impact.
 
 ## 📚 Education
 
